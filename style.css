@@ -1,0 +1,164 @@
+/*hauts de page et pieds de page ainsi que la page index*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2,h3{
+margin-bottom: 20px;
+}
+a{
+    color:yellow;
+    text-decoration: none;
+}
+
+/*header*/
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(10, 0, 0);
+    
+    line-height: 1.7;
+}
+.header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+.header nav h1 img{
+    margin-top: 10px;
+    margin-left: 10px;
+  
+    
+}
+
+.header nav ul{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.header nav ul li{
+    margin: auto;
+    display: inline-block;
+
+}
+
+.header nav ul li a{
+    margin: auto;
+    padding: 20px;
+    color:white;
+    display:inline-block;
+}
+
+.header nav ul li a:hover{
+    margin: auto;
+background-color:red;
+}
+
+
+/*page index*/
+.main {
+    height: 600px;
+    background-image: url(img/music-3507317_1920.jpg);
+    background-size: cover;
+}
+
+.main-contenu {
+    color: white;
+    padding-top: 130px;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    
+}
+.main-contenu p {
+    letter-spacing: 10px;
+    line-height:50px;
+}
+.partition{
+    height: 600px;
+    background-image: url(img/guitar-chords-2199554_1920.jpg);
+    background-size: cover;
+    }
+.container{
+    width: 100%;
+    height: 150px ;
+    display: inline-block;
+}
+.entete {
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    border:1px solid black;
+    margin-left: 5%;
+    float:left;
+}
+
+.elm1{
+    width:400px;
+    height: 25px;
+    border:1px solid black;
+    margin-top: 2px;
+    margin-left: 50px;
+    text-align: center;
+    clear: both;
+}
+.elm2{
+    width:400px;
+    height:50px;
+    border:1px solid blue;
+    margin-top: 10px;
+    margin-left: 50px;
+    text-align: center;
+    clear:both
+}
+.entete2 {
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    border:1px solid black;
+    margin-right: 5%;
+    float:right;
+}
+
+.elm3{
+    width:400px;
+    height: 25px;
+    border:1px solid black;
+    margin-top: 2px;
+    margin-left: 50px;
+    text-align: center;
+    clear: both;
+}
+.elm4{
+    width:400px;
+    height:50px;
+    border:1px solid blue;
+    margin-top: 10px;
+    margin-left: 50px;
+    text-align: center;
+    clear:both;
+}
+
+.soustitre{
+    text-align: center;
+}
+
+    
+   
+/*bas de page*/
+.footer{
+    background-color: black;
+}
+.footer ul li{
+    text-align: center;
+    list-style: none ;
+    color:white;
+    font-family: 'Lato', sans-serif;
+}
+

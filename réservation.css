@@ -1,0 +1,26 @@
+.pagereservations{
+    display: flex;
+    justify-content: space-between;
+    height: 597px;
+    
+}
+
+.lestelechargements{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 45%;
+    height: 100%;
+}
+
+
+
+.lesreservations{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 45%;
+    height: 100%;
+}
