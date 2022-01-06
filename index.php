@@ -32,7 +32,7 @@
                   Venez rencontrer les artistes.<br>
          Les professionnels répondront à toutes vos <br>questions.
                       </p><br>
-        <a href="réservations.html" class="main-button">RESERVEZ VOS PLACES</a>
+        <a href="réservations.php" class="main-button">RESERVEZ VOS PLACES</a>
                 
     </div>
 
@@ -53,7 +53,7 @@
 <br><hr>
 <div class="partition"></div><hr><br>
 <div class="soustitre"><h4>Téléchargez ici</h4><br>
-    <button onclick="window.location.href='index.html';">télécharger</button>
+    <button onclick="window.location.href='réservations.php';">télécharger</button>
 </div><br><hr>
 <footer>
     <div class="footer">
