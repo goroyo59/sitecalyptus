@@ -17,8 +17,10 @@
 <header class="header">
     <nav><h1><a href="index.php"><img src="img/logo.png"alt="CALYPTUS" width="150"></a></h1>
     <ul>
-        <li><a href="index.php">Accueil</a></li>
+    <li><a href="index.php">Accueil</a></li>
         <li><a href="réservations.php">réservations</a></li>
+        <li><a href="partitions.php">partitions</a></li>
+        <li><a href="albums.php">albums</a></li>
         <li><a href="inscription.php">inscriptiton</a></li>
         <li><a href="contact.php">contact, <br>connexion</a></li>
     </ul>

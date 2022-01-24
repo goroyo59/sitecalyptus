@@ -17,8 +17,10 @@
 <header class="header">
     <nav><h1><a href="index.php"><img src="img/logo.png"alt="CALYPTUS" width="150"></a></h1>
     <ul>
-        <li><a href="index.php">Accueil</a></li>
+    <li><a href="index.php">Accueil</a></li>
         <li><a href="réservations.php">réservations</a></li>
+        <li><a href="partitions.php">partitions</a></li>
+        <li><a href="albums.php">albums</a></li>
         <li><a href="inscription.php">inscriptiton</a></li>
         <li><a href="contact.php">contact, <br>connexion</a></li>
     </ul>
@@ -26,17 +28,7 @@
 </header>
 <body>
     <div class="pagereservations">
-    <div class="lestelechargements">
-    <div>MUSIQUES ET PARTITIONS</div>
-    <div>
-   <div><img src="img/classique.jpg" alt="CALYPTUS" width="50px"></div>
-   <div><img src="img/ambiance.jpg" alt="CALYPTUS" width="50px"></div>
-   <div><img src="img/metal.jpg" alt="CALYPTUS" width="50px"></div>
-   <div><img src="img/pop.jpg" alt="CALYPTUS" width="50px"></div>
-   <div><img src="img/progressif.jpg" alt="CALYPTUS" width="50px"></div>
-   <div><img src="img/reggae.jpg" alt="CALYPTUS" width="50px"></div>
-   </div>
-   </div>
+    
    <div class="lesreservations">
    <div>RESERVATIONS,DATES:</div>
    <div>10 mars 2022 <br>12 juin 2022 <br> 13 juillet 2022 <br> 14 juillet 2022 </div>

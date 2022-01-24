@@ -1,18 +1,13 @@
-.pagereservations{
+.pagealbum{
     display: flex;
     justify-content: center;
     height: 597px;
-    
 }
 
-
-
-
-
-.lesreservations{
+.lesalbums{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     width: 45%;
     height: 100%;

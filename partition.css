@@ -1,19 +1,15 @@
-.pagereservations{
+
+.pagepartition{
     display: flex;
     justify-content: center;
     height: 597px;
-    
 }
-
-
-
-
-
-.lesreservations{
+.lespartitions{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     width: 45%;
     height: 100%;
 }
+
