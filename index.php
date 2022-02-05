@@ -21,7 +21,7 @@
         <li><a href="partitions.php">partitions</a></li>
         <li><a href="albums.php">albums</a></li>
         <li><a href="inscription.php">inscriptiton</a></li>
-        <li><a href="contact.php">contact, <br>connexion</a></li>
+        <li><a href="contact.php">connexion</a></li>
     </ul>
     </nav>
 </header>

@@ -13,3 +13,8 @@
     height: 100%;
 }
 
+.compart{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

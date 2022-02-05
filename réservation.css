@@ -12,8 +12,13 @@
 .lesreservations{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     width: 45%;
     height: 100%;
+}
+.comreserv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }

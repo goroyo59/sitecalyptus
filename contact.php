@@ -22,7 +22,7 @@
         <li><a href="partitions.php">partitions</a></li>
         <li><a href="albums.php">albums</a></li>
         <li><a href="inscription.php">inscriptiton</a></li>
-        <li><a href="contact.php">contact, <br>connexion</a></li>
+        <li><a href="contact.php">connexion</a></li>
     </ul>
     </nav>
 </header>
@@ -73,8 +73,7 @@
         </div>
         </div>
         <div class = "seconnecter" > <button type="submit" class="bouton1">se connecter</button> </div>
-        <div class="contact">contactez nous</div>
-        <button name="question" cols="45" rows="5" onclick="window.location.href='/appcommentairescalyptus/index.php';" class="bouton3">Laissez vos <br> commentaires.</button>
+        
     </form>
     </div>
     </body>

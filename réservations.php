@@ -22,7 +22,7 @@
         <li><a href="partitions.php">partitions</a></li>
         <li><a href="albums.php">albums</a></li>
         <li><a href="inscription.php">inscriptiton</a></li>
-        <li><a href="contact.php">contact, <br>connexion</a></li>
+        <li><a href="contact.php">connexion</a></li>
     </ul>
     </nav>
 </header>
@@ -31,8 +31,13 @@
     
    <div class="lesreservations">
    <div>RESERVATIONS,DATES:</div>
+   <div class="comreserv">
    <div>10 mars 2022 <br>12 juin 2022 <br> 13 juillet 2022 <br> 14 juillet 2022 </div>
-   </div>
+   <div>
+    <textarea name="commentaires" id="" cols="30" rows="10">commentaires</textarea>
+</div>
+</div>   
+</div>
    </div>
    
 </body>

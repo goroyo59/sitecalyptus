@@ -22,7 +22,7 @@
         <li><a href="partitions.php">partitions</a></li>
         <li><a href="albums.php">albums</a></li>
         <li><a href="inscription.php">inscriptiton</a></li>
-        <li><a href="contact.php">contact, <br>connexion</a></li>
+        <li><a href="contact.php">connexion</a></li>
     </ul>
     </nav>
 </header>
@@ -30,6 +30,7 @@
     <div class="pagealbum">
 <div class="lesalbums">
     <div>ALBUMS</div>
+    <div class="comalbum">
     <div>
    <div><img src="img/classique.jpg" alt="CALYPTUS" width="50px"><div href="">classique</div></div>   
    <div><img src="img/ambiance.jpg" alt="CALYPTUS" width="50px"><div href="">ambiance</div></div>
@@ -38,7 +39,11 @@
    <div><img src="img/progressif.jpg" alt="CALYPTUS" width="50px"><div href="">rock progressif</div></div>
    <div><img src="img/reggae.jpg" alt="CALYPTUS" width="50px"><div href="">reggae</div></div>
    </div>
-   </div>
+   <div>
+    <textarea name="commentaires" id="" cols="30" rows="10">commentaires</textarea>
+</div>
+</div>
+  </div>
    </div>
 </body>
 <footer>

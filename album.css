@@ -12,3 +12,8 @@
     width: 45%;
     height: 100%;
 }
+.comalbum{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
